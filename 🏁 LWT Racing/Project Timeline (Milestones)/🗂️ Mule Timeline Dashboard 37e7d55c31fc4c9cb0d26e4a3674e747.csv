@@ -1,0 +1,11 @@
+﻿Goal,Week,Start Date,End Date,Deliverables,Owner,Status,Notes
+Planning & Geometry,1,"January 20, 2026","February 12, 2026","Geometry sheet, CAD start",Sean Murray,In Progress,
+Suspension + Steering,2,"January 20, 2026",,"Suspension CAD, steering layout",Sean Murray,In Progress,
+Frame Layout & Jig Planning,3,"February 9, 2026 → February 22, 2026",,"Frame drawing, jig plan",Sean Murray,In Progress,
+Frame Jig Build + Tube Cutting,4,"February 23, 2026",,"Jig complete, tubes cut",,Not Started,
+Frame Welding + Quality Check,5,"March 2, 2026",,"Completed frame, alignment report",,Not Started,
+Suspension Assembly,6,,,Suspension installed,,Not Started,
+Drivetrain Mockup,7,,,Drivetrain packaging confirmed,,Not Started,
+Final Assembly,8,,,Rolling chassis complete,,Not Started,
+Testing & Tuning,9,,,"Test log, improvement list",,Not Started,
+Final Improvements,10,,,Final build report,,Not Started,

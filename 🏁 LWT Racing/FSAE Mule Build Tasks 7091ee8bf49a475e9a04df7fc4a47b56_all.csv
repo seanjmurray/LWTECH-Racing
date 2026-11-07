@@ -1,0 +1,93 @@
+﻿Task,Date,Dependencies,Notes,Owner,Priority,Status,Week
+Create initial 3D CAD assembly skeleton,,,,Design,High,Done,1
+"Define packaging zones for drivetrain, steering, brakes",,,,Design,High,Done,1
+"Define build materials (tubing, hardware, fasteners)",,,,Build,High,Done,1
+Create geometry sheet (suspension kinematics goals),,,,Design,High,Done,1
+Select tires and wheels,,,,Design,High,Done,1
+Define driver cockpit envelope,,,,Design,High,Done,1
+Create initial chassis layout sketch,,,,Design,High,Done,1
+"Define wheelbase, track, and ride height targets",,,,Design,High,Done,1
+"Design front suspension (A-arm lengths, pickup points)",,,,Design,High,In Progress,2
+Set CAD standards and file naming conventions,,,,Design,High,Done,1
+Design rear suspension,,,,Design,High,In Progress,2
+"Design frame jig (tables, fixtures, locators)",,,,Build,High,Done,3
+Design steering linkage,,,,Design,High,Backlog,2
+Define bump steer and anti-dive targets,,,,Design,High,Done,2
+Create full tube cut list,,,,Build,High,Done,3
+Create chassis assembly order,,,,Build,High,To Do,3
+Design steering rack placement,,,,Design,High,Backlog,2
+Create preliminary upright interface model,,,,Machining,High,Done,2
+Create steering stop limits,,,,Design,High,Backlog,2
+Perform basic motion study / kinematic check,,,,Design,High,In Progress,2
+Order tubing and hardware,,,,Build,High,Done,3
+Define weld sequence,,,,Build,High,To Do,3
+Design suspension mounting towers,,,,Design,High,Done,3
+Tack weld initial joints,,,,Build,High,To Do,4
+Check and adjust jig for errors,,,,Build,High,To Do,4
+Mock-fit tubes in jig,,,,Build,High,To Do,4
+Check alignment and square,,,,Build,High,To Do,4
+Cut main chassis tubes,,,,Build,High,Done,4
+Design engine/drivetrain mounting points,,,,Design,High,Backlog,3
+Build frame jig,,,,Build,High,In Progress,4
+Install rear suspension,,,,Build,High,Backlog,6
+Check alignment after welding,,,,Build,High,To Do,5
+Final weld chassis,,,,Build,High,To Do,5
+Add driver mounting points (seat & pedal mounts),,,,Build,High,Backlog,5
+Install suspension towers (tack or final),,,,Build,High,Backlog,5
+Install front suspension,,,,Build,High,Backlog,6
+Inspect weld quality,,,,Build,High,Backlog,5
+Document any distortion,,,,Build,High,Backlog,5
+Add gussets and reinforcement as needed,,,,Build,High,Backlog,5
+Review weld access and clearance,,,,Build,High,To Do,4
+"Check travel, clearance, and bind",,,,Build,High,Backlog,6
+Mount transmission or chain drive,,,,Build,High,Backlog,7
+Install tie rods and ends,,,,Build,High,Backlog,6
+Verify geometry matches design,,,,Design,High,Backlog,6
+Install differential (if applicable),,,,Build,High,Backlog,7
+Install steering rack,,,,Build,High,Backlog,6
+Adjust pickup points if needed,,,,Build,High,Backlog,6
+Install engine/motor mockup,,,,Build,High,Backlog,7
+Install driveshaft/axle mockups,,,,Build,High,Backlog,7
+Confirm chain/belt alignment,,,,Build,High,Backlog,7
+Install steering wheel and column,,,,Build,High,Backlog,8
+Install basic electrical (if needed),,,,Build,High,Backlog,8
+Create engine mounting brackets,,,,Machining,High,Backlog,7
+Verify weight distribution,,,,Design,High,Backlog,7
+Design drivetrain protection / covers,,,,Design,High,Backlog,7
+Install brake lines,,,,Build,High,Backlog,8
+Install master cylinders,,,,Build,High,Backlog,8
+Install brake calipers and rotors,,,,Build,High,Backlog,8
+Install seat and basic controls,,,,Build,High,Backlog,8
+Install wheels and tires,,,,Build,High,Backlog,8
+Record test data,,,,Design,High,Backlog,9
+Check for rubbing and interference,,,,Build,High,Backlog,9
+Adjust ride height,,,,Build,High,Backlog,9
+Brake testing,,,,Build,High,Backlog,9
+Install brake bias adjuster (if applicable),,,,Build,High,Backlog,8
+Low-speed handling test,,,,Build,High,Backlog,9
+Check steering response,,,,Design,High,Backlog,9
+Adjust toe settings,,,,Design,High,Backlog,9
+Adjust camber/caster if possible,,,,Design,High,Backlog,9
+Suspension travel test,,,,Build,High,Backlog,9
+Finalize packaging layout for next car,,,,Design,High,Backlog,10
+Finalize parts list for competition car,,,,Design,High,Backlog,10
+Document lessons learned,,,,Design,High,Backlog,10
+Create alignment and measurement procedure,,,,Build,Low,Backlog,0
+Create final build report,,,,Design,High,Backlog,10
+Update CAD with actual measurements,,,,Design,High,Backlog,10
+Create list of competition car changes,,,,Design,High,Backlog,10
+Fix major issues found in testing,,,,Build,High,Backlog,10
+Create weld inspection checklist,,,,Build,Low,Backlog,0
+Create shop safety checklist,,,,Build,Low,Backlog,0
+Create build log template,,,,Build,Low,Backlog,0
+Create test plan for mule,,,,Design,Low,Backlog,0
+Identify suppliers for tubing and hardware,,,,Build,Low,Backlog,0
+Track lead times and budget,,,,Build,Low,Backlog,0
+Create version control process,,,,Design,Low,Backlog,0
+Create measurement plan (setup data sheet),,,,Design,Low,Backlog,0
+Create tool and equipment list,,,,Build,Low,Backlog,0
+Create parts inventory spreadsheet,,,,Build,Low,Backlog,0
+Create photo log for each major assembly,,,,Build,Low,Backlog,0
+"Throttle position ",,,,,,,
+,,,,,,,
+"ECU research ",,,,,,Done,
